@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\private\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:private\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\private\\verify.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:private\\verify.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\private\\registered.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:private\\registered.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|c:\\users\\dominic stefani\\desktop\\winter 2026\\applied_programming\\module2_password_manager\\c#\\private\\denied.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EBAAA31-C3EF-4A36-ADA3-E1C48477CC67}|c#.csproj|solutionrelative:private\\denied.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\index.html",
+              "RelativeDocumentMoniker": "Private\\index.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\index.html",
+              "RelativeToolTip": "Private\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-01T16:29:21.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T20:12:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:00:51.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:30:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\login.html",
+              "RelativeToolTip": "wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T16:47:05.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\register.html",
+              "RelativeDocumentMoniker": "wwwroot\\register.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\wwwroot\\register.html",
+              "RelativeToolTip": "wwwroot\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T20:06:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "denied.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\denied.html",
+              "RelativeDocumentMoniker": "Private\\denied.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\denied.html",
+              "RelativeToolTip": "Private\\denied.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T16:40:29.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "verify.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\verify.html",
+              "RelativeDocumentMoniker": "Private\\verify.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\verify.html",
+              "RelativeToolTip": "Private\\verify.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T01:13:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registered.html",
+              "DocumentMoniker": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\registered.html",
+              "RelativeDocumentMoniker": "Private\\registered.html",
+              "ToolTip": "C:\\Users\\Dominic Stefani\\Desktop\\Winter 2026\\applied_programming\\module2_password_manager\\c#\\Private\\registered.html",
+              "RelativeToolTip": "Private\\registered.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T21:56:09.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

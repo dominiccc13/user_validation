@@ -1,0 +1,46 @@
+/* Container */
+.container {
+    border: 2px solid black;
+    border-radius: 12px;
+    overflow: hidden;
+
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.container-header {
+    background-color: black;
+}
+
+.container-header h3 {
+    color: white;
+    text-align: center;
+}
+
+/* Table */
+th:first-child,
+td:first-child {
+    width: 1%;
+}
+
+table tr:not(:first-child):not(:last-child):nth-child(even) {
+    background-color: lightgray;
+}
+
+tr:has(input[type="radio"]:checked) {
+    background-color: yellow !important;
+}
+
+#last-row {
+    color: gray;
+    font-style: italic;
+}
+
+/* Key Handler */
+#key-status {
+    font-style: italic;
+    color: gray;
+    text-align: center;
+}
